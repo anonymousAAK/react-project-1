@@ -1,4 +1,6 @@
-# co7e24845a24a56f3c8f3065b
+# basic static react project 
+Here's the deployed link
+https://endearing-platypus-6530eb.netlify.app/
 
 Quick start:
 
